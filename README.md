@@ -22,6 +22,7 @@ NumpyGCRL is a lightweight and extensible framework for Goal-Conditioned Reinfor
     python main.py --algo GCBC
 ## Repository Structure
 NumpyGCRL/
+
 ├── algos/                # Algorithm implementations
 
 ├── models/               # Model definitions (e.g., policies, Q-functions)
