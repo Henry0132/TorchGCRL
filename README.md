@@ -23,10 +23,15 @@ NumpyGCRL is a lightweight and extensible framework for Goal-Conditioned Reinfor
 ## Repository Structure
 NumpyGCRL/
 ├── algos/                # Algorithm implementations
+
 ├── models/               # Model definitions (e.g., policies, Q-functions)
+
 ├── utils/                # Utility functions and dataset handling
+
 ├── [main.py](http://_vscodecontentref_/1)               # Entry point for training and evaluation
+
 ├── [README.md](http://_vscodecontentref_/2)             # Project documentation
+
 └── requirements.txt      # Python dependencies
 ## Contributing
 We welcome contributions from the community to improve this repository and expand its capabilities. Here are some ways you can contribute:
