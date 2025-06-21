@@ -47,6 +47,7 @@ This repository is inspired by and builds upon the ideas from:
 1. [OGBench](https://github.com/seohongpark/ogbench)
 2. [TD3BC](https://github.com/sfujim/TD3_BC)
 3. [DiffusionQL](https://github.com/Zhendong-Wang/Diffusion-Policies-for-Offline-RL)
+   
 Be sure to reference them if you need them.
 ## License
 This README is designed to encourage community contributions while providing clear instructions for usage and development. You can customize it further based on your specific goals and requirements.
