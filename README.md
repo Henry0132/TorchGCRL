@@ -1,6 +1,6 @@
-# NumpyGCRL: A Goal-Conditioned Reinforcement Learning Framework
+# NumpyGCRL: A Offline Goal-Conditioned Reinforcement Learning Framework
 
-NumpyGCRL is a lightweight and extensible framework for Goal-Conditioned Reinforcement Learning (GCRL), inspired by repositories such as OGBench, TD3BC, and DiffusionQL. This repository aims to provide a foundation for implementing and reproducing offline reinforcement learning algorithms in a goal-conditioned setting.
+NumpyGCRL is a lightweight and extensible framework for Offline Goal-Conditioned Reinforcement Learning (Offline-GCRL), inspired by repositories such as OGBench, TD3BC, and DiffusionQL. This repository aims to provide a foundation for implementing and reproducing offline reinforcement learning algorithms in a goal-conditioned setting.
 
 ## Features
 - **Algorithm Support**: Includes implementations of algorithms like GCBC, GCTD3BC, GCDiffusionQL, and more.
