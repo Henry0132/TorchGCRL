@@ -1,6 +1,6 @@
-# NumpyGCRL: A Offline Goal-Conditioned Reinforcement Learning Framework
+# TorchGCRL: A Offline Goal-Conditioned Reinforcement Learning Framework
 
-NumpyGCRL is a lightweight and extensible framework for Offline Goal-Conditioned Reinforcement Learning (Offline-GCRL), inspired by repositories such as OGBench, TD3BC, and DiffusionQL. This repository aims to provide a foundation for implementing and reproducing offline reinforcement learning algorithms in a goal-conditioned setting.
+TorchGCRL is a lightweight and extensible framework for Offline Goal-Conditioned Reinforcement Learning (Offline-GCRL), inspired by repositories such as OGBench, TD3BC, and DiffusionQL. This repository aims to provide a foundation for implementing and reproducing offline reinforcement learning algorithms in a goal-conditioned setting.
 
 ## Features
 - **Algorithm Support**: Includes implementations of algorithms like GCBC, GCTD3BC, GCDiffusionQL, and more.
@@ -11,8 +11,8 @@ NumpyGCRL is a lightweight and extensible framework for Offline Goal-Conditioned
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NumpyGCRL.git
-   cd NumpyGCRL
+   git clone https://github.com/Henry0132/TorchGCRL.git
+   cd TorchGCRL
 2. Install dependencies: 
     ```bash
     pip install -r requirements.txt
