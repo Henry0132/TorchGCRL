@@ -21,7 +21,7 @@ TorchGCRL is a lightweight and extensible framework for Offline Goal-Conditioned
     ```bash
     python main.py --algo GCBC
 ## Repository Structure
-NumpyGCRL/
+TorchGCRL/
 
 ├── algos/                # Algorithm implementations
 
