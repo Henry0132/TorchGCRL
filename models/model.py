@@ -26,12 +26,12 @@ class GCValueFunction(nn.Module):
         v1 = F.relu(self.l1(x))
         v1 = F.relu(self.l2(v1))
         v1 = F.relu(self.l3(v1))
-        v1 = F.relu(self.l4(v1))
+        v1 = self.l4(v1)
 
         v2 = F.relu(self.l5(x))
         v2 = F.relu(self.l6(v2))
         v2 = F.relu(self.l7(v2))
-        v2 = F.relu(self.l8(v2))
+        v2 = self.l8(v2)
 
         return v1, v2
     
@@ -66,12 +66,12 @@ class GCQFunction(nn.Module):
         q1 = F.relu(self.l1(x))
         q1 = F.relu(self.l2(q1))
         q1 = F.relu(self.l3(q1))
-        q1 = F.relu(self.l4(q1))
+        q1 = self.l4(q1)
 
         q2 = F.relu(self.l5(x))
         q2 = F.relu(self.l6(q2))
         q2 = F.relu(self.l7(q2))
-        q2 = F.relu(self.l8(q2))
+        q2 = self.l8(q2)
 
         return q1, q2
 
